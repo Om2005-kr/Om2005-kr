@@ -36,25 +36,33 @@ Mathematics & Computing Student | Full Stack Developer | AI/ML Enthusiast
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 
-### 👨‍💻 Languages
-C++ • Python • JavaScript • SQL • HTML5 • CSS3
+<p align="left">
 
-### 🎨 Frontend
-React.js • Next.js • Tailwind CSS • Bootstrap
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
+<img src="https://skillicons.dev/icons?i=spring" height="50"/>
+<img src="https://skillicons.dev/icons?i=hibernate" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-### ⚙️ Backend
-Spring Boot • Spring Security • REST APIs • Hibernate/JPA • Microservices
-
-### 🤖 AI & ML
-RAG • Prompt Engineering • Machine Learning • Deep Learning • NLP (Basics)
-
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB • Firebase • Neon
-
-### 🧰 Tools
-Git • GitHub • Docker • Maven • Postman • AWS • VS Code • Cursor
+</p>
 
 ---
 
@@ -73,16 +81,29 @@ Tender evaluation and management system
 
 # 📊 GitHub Stats
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om2005-kr&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Om2005-kr&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om2005-kr&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om2005-kr&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/Om2005-kr
-- LinkedIn: Add your LinkedIn link here
+<p align="left">
+<a href="https://github.com/Om2005-kr" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<!-- Add LinkedIn -->
+<!-- <a href="YOUR_LINKEDIN_LINK" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a> -->
+
+</p>
 
 ---
 
