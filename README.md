@@ -1,85 +1,60 @@
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
-<h3 align="center">Mathematics & Computing Student | Full Stack Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+Mathematics & Computing Student | Full Stack Developer | AI/ML Enthusiast
+</h3>
 
 ---
 
 ## 🚀 About Me
 
+💻 Passionate about Full Stack Development, scalable backend systems, and AI-powered applications  
+
 🎓 4th-year Mathematics & Computing student at DTU  
-💻 Passionate about Full Stack Development, AI/ML, and scalable backend systems  
-🌱 Currently learning Advanced System Design & Cloud Deployment  
+
+🌱 Currently learning Advanced System Design, Microservices, and Cloud Deployment  
+
 ⚡ Love building real-world projects and solving DSA problems  
 
 ---
 
-# 🛠️ Tech Stack
+## 🔭 Current Focus
 
-## 👨‍💻 Programming Languages
-- C++
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+- Building scalable full-stack applications  
+- Exploring AI + Web integration  
+- Improving backend architecture & deployment workflows  
 
 ---
 
-## 🎨 Frontend Development
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
+## 💬 Ask Me About
+
+- React.js & Next.js  
+- Spring Boot & REST APIs  
+- Full Stack Development  
+- DSA & CS Fundamentals  
+- Git & GitHub workflows  
 
 ---
 
-## ⚙️ Backend Development
-- Spring Boot
-- Spring Security
-- REST APIs
-- Hibernate / JPA
-- Microservices
+## 🛠️ Languages & Tools
 
----
+### 👨‍💻 Languages
+C++ • Python • JavaScript • SQL • HTML5 • CSS3
 
-## 🤖 AI & ML
-- RAG
-- Prompt Engineering
-- Machine Learning
-- Deep Learning
-- NLP (Basics)
+### 🎨 Frontend
+React.js • Next.js • Tailwind CSS • Bootstrap
 
----
+### ⚙️ Backend
+Spring Boot • Spring Security • REST APIs • Hibernate/JPA • Microservices
 
-## 🗄️ Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Firebase
-- Neon
+### 🤖 AI & ML
+RAG • Prompt Engineering • Machine Learning • Deep Learning • NLP (Basics)
 
----
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB • Firebase • Neon
 
-## 🧰 Tools & Deployment
-- Git
-- GitHub
-- Postman
-- Maven
-- Docker
-- CI/CD
-- AWS
-- VS Code
-- Cursor
-
----
-
-## 📚 CS Fundamentals
-- DSA
-- OOPs
-- DBMS
-- System Design
-- JWT
-- OAuth2
-- API Gateway
+### 🧰 Tools
+Git • GitHub • Docker • Maven • Postman • AWS • VS Code • Cursor
 
 ---
 
@@ -106,9 +81,8 @@ Tender evaluation and management system
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Om2005-kr)
-
-Add your LinkedIn link here
+- GitHub: https://github.com/Om2005-kr
+- LinkedIn: Add your LinkedIn link here
 
 ---
 
