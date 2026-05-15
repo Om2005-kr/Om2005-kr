@@ -94,14 +94,22 @@ Tender evaluation and management system
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Om2005-kr" target="blank">
+
+<a href="https://github.com/Om2005-kr" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<!-- Add LinkedIn -->
-<!-- <a href="YOUR_LINKEDIN_LINK" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a> -->
+<a href="https://www.instagram.com/om_kr_sharma05/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+<a href="https://www.facebook.com/people/Om-Kumar/pfbid0yQ4hyBgJzG84vVY3CEb17QSpn6TLjBKeWdJTtep8k8YAsPf3FFdfNBSDrYh1RQEQl/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50"/>
+</a>
+
+<a href="https://x.com/omkumar17329243?s=21" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
 
 </p>
 
